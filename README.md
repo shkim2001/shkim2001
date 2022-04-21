@@ -25,13 +25,13 @@ Software  :
 
 <img src="https://img.shields.io/badge/Microsoft Office-D83B01?style=flat-square&logo=Microsoft&nbspOffice&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Microsoft Word-2B579A?style=flat-square&logo=Microsoft&nbspWord&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Microsoft Powerpoint-B7472A?style=flat-square&logo=Microsoft Powerpoint&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Microsoft Excel-217346?style=flat-square&logo=Microsoft&nbspExcel&logoColor=FFFFFF"/>
 
-- 📫  How to reach me... 
-
-<a href="mailto:tjdgmlkim19@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF"/>
-
 - 🔭 Find more about me... 
 
 <a href="https://www.linkedin.com/in/sung-hee-kim/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=FFFFFF"/> <a href="https://github.com/shkim2001"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=FFFFFF"/>
+
+- 📫  How to reach me... 
+
+<a href="mailto:tjdgmlkim19@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF"/>
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0F52BA&height=200&section=footer)
