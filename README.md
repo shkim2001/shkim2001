@@ -9,7 +9,9 @@ I am Sung-Hee (Sunny) Kim (she/her), a sophomore Computer Science major at Carle
 
 - 💦  I’m currently working on...
 
-[CS 257 Team Project](https://github.com/CS-257-S22/team-project-F)
+[]()
+
+<a href="https://github.com/CS-257-S22/team-project-F"><img src="https://img.shields.io/badge/CS 257 Team Project-181717?style=flat-square&logo=GitHub&logoColor=FFFFFF"/></a>
 
 - 🌱  I’m currently learning...
 
@@ -31,7 +33,7 @@ Software  :
 
 - 🔭 Find more about me... 
 
-<a href="https://www.linkedin.com/in/sung-hee-kim/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=FFFFFF"/> <a href="https://github.com/shkim2001"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=FFFFFF"/></a>
+<a href="https://www.linkedin.com/in/sung-hee-kim/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=FFFFFF"/></a> <a href="https://github.com/shkim2001"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=FFFFFF"/></a>
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0F52BA&height=200&section=footer)
