@@ -5,9 +5,11 @@
 I am Sung-Hee (Sunny) Kim (she/her), a sophomore Computer Science major at Carleton College. 
 <br> I'm new to GitHub, but I'm learning!
 
+
+
 - 🔭 I’m currently working on...
 
-<a href="https://github.com/CS-257-S22/team-project-F"><img src="https://img.shields.io/badge/CS 257 Team Project-181717?style=flat-square&logo=GitHub&logoColor=FFFFFF"/>
+[CS 257 Team Project](https://github.com/CS-257-S22/team-project-F)
 
 - 🌱 I’m currently learning...
 
