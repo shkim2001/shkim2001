@@ -9,5 +9,7 @@ I am Sung-Hee (Sunny) Kim (she/her), a sophomore Computer Science major at Carle
 
 - ⚡ Fun fact: I like the color blue 💙!
 
+<a href="https://www.linkedin.com/in/sung-hee-kim/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=FFFFFF"/> <a href="https://github.com/shkim2001"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=FFFFFF"/>
+
 ![Sunny's GitHub stats](https://github-readme-stats.vercel.app/api?username=shkim2001&show_icons=true&theme=default)
 
