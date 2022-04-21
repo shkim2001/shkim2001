@@ -1,4 +1,4 @@
-### Hi, there! Welcome to Sung-Hee (Sunny) Kim's GitHub! 👋
+### 👋 Hi, there! Welcome to Sung-Hee (Sunny) Kim's GitHub! ☀️
 
 I am Sung-Hee (Sunny) Kim (she/her), a sophomore Computer Science major at Carleton College. 
 I'm new to GitHub, but I'm learning!
