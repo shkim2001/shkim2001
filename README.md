@@ -25,7 +25,7 @@ Skills :
 
 Software  : 
 
-<img src="https://img.shields.io/badge/Microsoft Office-D83B01?style=flat-square&logo=Microsoft&nbspOffice&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Microsoft Word-2B579A?style=flat-square&logo=Microsoft&nbspWord&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Microsoft Powerpoint-B7472A?style=flat-square&logo=Microsoft Powerpoint&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Microsoft Excel-217346?style=flat-square&logo=Microsoft&nbspExcel&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Microsoft Office-D83B01?style=flat-square&logo=Microsoft&nbspOffice&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Microsoft Word-2B579A?style=flat-square&logo=Microsoft&nbspWord&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Microsoft Powerpoint-B7472A?style=flat-square&logo=Microsoft Powerpoint&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Microsoft Excel-217346?style=flat-square&logo=Microsoft&nbspExcel&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe&nbspPhotoshop&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=flat-square&logo=Adobe&nbspXD&logoColor=FFFFFF"/> 
 
 - 📫  How to reach me... 
 
