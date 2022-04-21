@@ -35,5 +35,7 @@ Software  :
 
 <a href="https://www.linkedin.com/in/sung-hee-kim/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=FFFFFF"/></a> <a href="https://github.com/shkim2001"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=FFFFFF"/></a>
 
+[![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=shkim2001&layout=compact)](https://github.com/shkim2001)
+
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0F52BA&height=200&section=footer)
