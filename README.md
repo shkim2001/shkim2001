@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=00008B&height=200&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0F52BA&height=200&section=header)
 
 ### 👋 Hi, there! Welcome to Sung-Hee (Sunny) Kim's GitHub! ☀️
 
@@ -17,4 +17,4 @@ Find more about me here :
 
 <a href="https://www.linkedin.com/in/sung-hee-kim/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=FFFFFF"/> <a href="https://github.com/shkim2001"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=FFFFFF"/>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=00008B&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0F52BA&height=200&section=footer)
