@@ -7,7 +7,7 @@ I am Sung-Hee (Sunny) Kim (she/her), a sophomore Computer Science major at Carle
 
 
 
-- 💦  I’m currently working on...
+- 🎯  I’m currently working on...
 
 []()
 
