@@ -7,11 +7,9 @@ I am Sung-Hee (Sunny) Kim (she/her), a sophomore Computer Science major at Carle
 
 
 
-- 🎯  I’m currently working on...
+- 🎯  I’m currently working...
 
-[]()
-
-<a href="https://github.com/CS-257-S22/team-project-F"><img src="https://img.shields.io/badge/CS 257 Team Project-181717?style=flat-square&logo=GitHub&logoColor=FFFFFF"/></a>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=FFFFFF"/>
 
 - 🌱  I’m currently learning...
 
