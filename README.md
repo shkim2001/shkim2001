@@ -10,6 +10,7 @@ I am Sung-Hee (Sunny) Kim (she/her), a sophomore Computer Science major at Carle
 - 🎯  I’m currently working...
 
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=FFFFFF"/>
 
 - 🌱  I’m currently learning...
 
