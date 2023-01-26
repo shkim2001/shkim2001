@@ -25,7 +25,7 @@ I am Sung-Hee (Sunny) Kim (she/her), a junior Computer Science major at Carleton
 
 - 🔭  Find more about me... 
 
-<a href="https://www.linkedin.com/in/sung-hee-kim/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=FFFFFF"/></a> 
+<a href="https://www.linkedin.com/in/sung-hee-kim/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=FFFFFF"/></a> <a href="https://velog.io/@shkim2001"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=FFFFFF"/></a> 
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0F52BA&height=200&section=footer)
