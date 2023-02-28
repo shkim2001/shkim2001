@@ -26,5 +26,11 @@ I am Sung-Hee (Sunny) Kim (she/her), a junior Computer Science major at Carleton
 
 <a href="https://www.linkedin.com/in/sung-hee-kim/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=FFFFFF"/></a> <a href="https://velog.io/@shkim2001"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=FFFFFF"/></a> 
 
-![Sunny's GitHub stats](https://github-readme-stats.vercel.app/api?username=shkim2001&count_private=true&show_icons=true)
 
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shkim2001&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shkim2001&hide_progress=true" />
+</a>
