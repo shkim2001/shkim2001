@@ -6,7 +6,7 @@ I am Sung-Hee (Sunny) Kim (she/her), a junior Computer Science major at Carleton
 
 - 🌱  I’m currently learning...
 
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=Cplusplus&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=FFFFFF"/>
 
 - 🎯 I have experience in...
 
