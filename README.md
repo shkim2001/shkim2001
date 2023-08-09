@@ -1,7 +1,7 @@
 
 ### 👋  Hi, there! Welcome to Sung-Hee (Sunny) Kim's GitHub! ☀️
 
-I am Sung-Hee (Sunny) Kim (she/her), a junior Computer Science major at Carleton College. 
+I am Sung-Hee (Sunny) Kim (she/her), a senior Computer Science major at Carleton College. 
 
 
 - 🌱  I’m currently learning...
