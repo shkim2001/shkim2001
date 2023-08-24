@@ -4,7 +4,7 @@
 
 <img align="right" width="50%" src="https://i.pinimg.com/originals/00/8a/02/008a02e89562569705c2b30d465e1ba1.gif"/>
 
-### ☀️ S  u  n  n  y ☀️
+### ☀️ s  u  n  n  y ☀️
 <a href="https://github.com/shkim2001"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshkim2001%2Fhit-counter&count_bg=%23E441B9&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
 ---
 
